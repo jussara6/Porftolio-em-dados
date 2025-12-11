@@ -22,6 +22,6 @@ Meus projetos se encontram nos arquivos deste repositório
 ---
 
 ### 🌐 Conecte-se comigo
-* **Linkedin:** linkedin.com/in/jussara-faria-de-oliveira-19b02b280/
+* [linkedin.com/in/jussara-faria-de-oliveira-19b02b280/](**Linkedin:**)
 
 Agradeço a sua visita! Fique à vontade para entrar em contato.
