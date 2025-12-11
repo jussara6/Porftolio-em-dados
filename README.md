@@ -18,14 +18,7 @@ Sempre em busca de aprimorar minhas habilidades, tenho experiência com tecnolog
 
 ### 📂 Projetos em Destaque
 
-Meus projetos em análise de daods se encontram 
-
----
-
-### 🎯 Meus Objetivos Futuros
-* Aprofundar meus conhecimentos em toda a área de dados, pois é uma área que está em constante expansão.
-* Entender como a análise de dados funciona na prática diária de uma empresa
-
+Meus projetos se encontram nos arquivos deste repositório 
 ---
 
 ### 🌐 Conecte-se comigo
